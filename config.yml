@@ -1,0 +1,21 @@
+# site title
+title: Pines Cheng‘s Blog
+
+# github user
+user: Pines-Cheng 
+
+# issue repository
+repository: blog
+
+# multi-author
+authors:
+
+# token
+# token should be separated by '#'
+# example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
+token: 6#73c765e7601105676977362f79019e9fc2a20a6
+
+# posts per page
+perpage: 10
+
+
