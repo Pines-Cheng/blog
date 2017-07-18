@@ -13,7 +13,7 @@ authors:
 # token
 # token should be separated by '#'
 # example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
-token: dac4ff4a322e2658ed9bbdadb001ea02d58898ff
+token: 4#15c377536a81a3bd9e2a9a8f0173d22e915a923
 
 # posts per page
 perpage: 10
