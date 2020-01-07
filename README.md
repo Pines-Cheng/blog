@@ -8,4 +8,5 @@ Pines Cheng 的技术博客。
 - [CSS魔法 - 博客](https://github.com/cssmagic/blog/issues)
 - [lcxfs1991/blog](https://github.com/lcxfs1991/blog)
 - [梁少峰 youngwind/blog](https://github.com/youngwind/blog)
+- [sorrycc/blog](https://github.com/sorrycc/blog)
 
