@@ -1,4 +1,4 @@
-Pines Cheng 的技术博客。
+~~Pines Cheng 的技术博客。~~ 之前的技术博客，现在是当笔记用了，乱糟糟的。
 
 ## 博客链接
 - [张云龙 fouber/blog](https://github.com/fouber/blog)
